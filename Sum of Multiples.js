@@ -1,6 +1,5 @@
-
-
 Sum of Multiples
+
 function sumMul(n,m){
     sum = 0;
     if ( n <= 0 || m <= 0 ) {
@@ -11,7 +10,3 @@ function sumMul(n,m){
     }
     return sum;
 }
-
-
-
-
