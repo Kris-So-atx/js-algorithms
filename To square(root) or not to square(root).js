@@ -7,4 +7,4 @@ function squareOrSquareRoot(array) {
             arr.push(Math.pow(array[i], 2))
     }
     return arr;
-}
+}Sum ArraysSum Arrays
